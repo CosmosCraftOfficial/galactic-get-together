@@ -1,1 +1,3 @@
-# galactic-get-together
+# Galactic Get-Together
+
+**The Cosmos Conversation**
